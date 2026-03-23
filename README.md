@@ -45,36 +45,51 @@
 ---
 
 ### ⚡ Featured Projects
-<table align="center">
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <strong>CapySave Finance Hub</strong><br>
-      <a href="https://lewynski.github.io/projects/capysave.html">
-        <img src="https://via.placeholder.com/500x280/2a2a40/facc15?text=CapySave+Screenshot" alt="CapySave App" />
-      </a><br>
+      <kbd>
+        <a href="https://lewynski.github.io/projects/capysave.html">
+          <img src="https://via.placeholder.com/400x225/2a2a40/facc15?text=CapySave+App" alt="CapySave" width="100%" />
+        </a>
+      </kbd>
+      <br><br>
+      <b>💼 CapySave Finance Hub</b><br>
       <em>Neural-linked budget tracker with Groq AI diagnostics.</em>
     </td>
     <td align="center" width="50%">
-      <strong>PresyoDex Scanner</strong><br>
-      <a href="https://lewynski.github.io/projects/presyodex.html">
-        <img src="https://via.placeholder.com/500x280/2a2a40/ffb86c?text=PresyoDex+Screenshot" alt="PresyoDex" />
-      </a><br>
+      <kbd>
+        <a href="https://lewynski.github.io/projects/presyodex.html">
+          <img src="https://via.placeholder.com/400x225/2a2a40/ffb86c?text=PresyoDex" alt="PresyoDex" width="100%" />
+        </a>
+      </kbd>
+      <br><br>
+      <b>🏷️ PresyoDex Scanner</b><br>
       <em>AI Philippine Retail SRP Database.</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>FloraDex Botanical AI</strong><br>
-      <a href="https://lewynski.github.io/projects/floradex.html">
-        <img src="https://via.placeholder.com/500x280/2a2a40/4ade80?text=FloraDex+Screenshot" alt="FloraDex" />
-      </a><br>
+      <br>
+      <kbd>
+        <a href="https://lewynski.github.io/projects/floradex.html">
+          <img src="https://via.placeholder.com/400x225/2a2a40/4ade80?text=FloraDex" alt="FloraDex" width="100%" />
+        </a>
+      </kbd>
+      <br><br>
+      <b>🌿 FloraDex Botanical AI</b><br>
       <em>API-Chaining: Groq AI text + Wikipedia Image fetch.</em>
     </td>
     <td align="center" width="50%">
-      <strong>NetWatch PH</strong><br>
-      <a href="https://lewynski.github.io/projects/netwatch.html">
-        <img src="https://via.placeholder.com/500x280/2a2a40/8be9fd?text=NetWatch+Screenshot" alt="NetWatch" />
-      </a><br>
+      <br>
+      <kbd>
+        <a href="https://lewynski.github.io/projects/netwatch.html">
+          <img src="https://via.placeholder.com/400x225/2a2a40/8be9fd?text=NetWatch+PH" alt="NetWatch" width="100%" />
+        </a>
+      </kbd>
+      <br><br>
+      <b>📡 NetWatch PH</b><br>
       <em>AI-driven dynamic ISP diagnostic simulator.</em>
     </td>
   </tr>
