@@ -44,6 +44,44 @@
 
 ---
 
+### ⚡ Featured Projects
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>CapySave Finance Hub</strong><br>
+      <a href="https://lewynski.github.io/projects/capysave.html">
+        <img src="https://via.placeholder.com/500x280/2a2a40/facc15?text=CapySave+Screenshot" alt="CapySave App" />
+      </a><br>
+      <em>Neural-linked budget tracker with Groq AI diagnostics.</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>PresyoDex Scanner</strong><br>
+      <a href="https://lewynski.github.io/projects/presyodex.html">
+        <img src="https://via.placeholder.com/500x280/2a2a40/ffb86c?text=PresyoDex+Screenshot" alt="PresyoDex" />
+      </a><br>
+      <em>AI Philippine Retail SRP Database.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>FloraDex Botanical AI</strong><br>
+      <a href="https://lewynski.github.io/projects/floradex.html">
+        <img src="https://via.placeholder.com/500x280/2a2a40/4ade80?text=FloraDex+Screenshot" alt="FloraDex" />
+      </a><br>
+      <em>API-Chaining: Groq AI text + Wikipedia Image fetch.</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>NetWatch PH</strong><br>
+      <a href="https://lewynski.github.io/projects/netwatch.html">
+        <img src="https://via.placeholder.com/500x280/2a2a40/8be9fd?text=NetWatch+Screenshot" alt="NetWatch" />
+      </a><br>
+      <em>AI-driven dynamic ISP diagnostic simulator.</em>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
